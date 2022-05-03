@@ -1,0 +1,12 @@
+Source: ros-galactic-turtlebot4-viz
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ament-lint-auto <!nocheck>, ros-galactic-ament-lint-common <!nocheck>, ros-galactic-rqt-robot-monitor, ros-galactic-rviz2, ros-galactic-turtlebot4-description, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-turtlebot4-viz
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-rqt-robot-monitor, ros-galactic-rviz2, ros-galactic-turtlebot4-description, ros-galactic-ros-workspace
+Description: Visualization launchers and helpers for Turtlebot4
