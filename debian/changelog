@@ -1,0 +1,20 @@
+ros-jazzy-turtlebot4-desktop (2.0.0-1noble) noble; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 Sep 2024 04:00:00 -0000
+
+ros-jazzy-turtlebot4-desktop (1.0.0-1noble) noble; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 21 Feb 2023 05:00:00 -0000
+
+ros-jazzy-turtlebot4-desktop (0.1.0-1noble) noble; urgency=high
+
+  * First Galactic release
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 May 2022 04:00:00 -0000
+
+
