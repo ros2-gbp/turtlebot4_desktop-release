@@ -1,0 +1,37 @@
+ros-jazzy-turtlebot4-viz (2.0.1-1noble) noble; urgency=high
+
+  * Remove base_footprint from tf tree view
+  * Move the Slam Toolbox plugin to a tab so it occupies the same screen real-estate as Nav2's plugin
+  * Contributors: Chris Iverach-Brereton
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Wed, 25 Sep 2024 04:00:00 -0000
+
+ros-jazzy-turtlebot4-viz (2.0.0-1noble) noble; urgency=high
+
+  * Add new view_navigation launch file
+  * Remove Nav2 plugins from view_robot launch file
+  * Load the description when using view_model launch file
+  * Update Github CI to use Jazzy and ROS testing
+  * Linter fixes for Jazzy
+  * Initial Jazzy implementation (#9 <https://github.com/turtlebot/turtlebot4_desktop/issues/9>)
+  * Contributors: Chris Iverach-Brereton
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 Sep 2024 04:00:00 -0000
+
+ros-jazzy-turtlebot4-viz (1.0.0-1noble) noble; urgency=high
+
+  * Updated camera topic
+  * Namespacing
+  * Updated CI to Humble
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 21 Feb 2023 05:00:00 -0000
+
+ros-jazzy-turtlebot4-viz (0.1.0-1noble) noble; urgency=high
+
+  * First Galactic release
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 May 2022 04:00:00 -0000
+
+
