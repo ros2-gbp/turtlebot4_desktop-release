@@ -1,3 +1,28 @@
+## turtlebot4_desktop (jazzy) - 2.0.1-1
+
+The packages in the `turtlebot4_desktop` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy turtlebot4_desktop` on `Wed, 25 Sep 2024 17:54:20 -0000`
+
+These packages were released:
+- `turtlebot4_desktop`
+- `turtlebot4_viz`
+
+Version of package(s) in repository `turtlebot4_desktop`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_desktop.git
+- release repository: https://github.com/ros2-gbp/turtlebot4_desktop-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_desktop (jazzy) - 2.0.0-1
 
 The packages in the `turtlebot4_desktop` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy turtlebot4_desktop` on `Tue, 03 Sep 2024 21:49:06 -0000`
